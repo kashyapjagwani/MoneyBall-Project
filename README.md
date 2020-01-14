@@ -4,8 +4,8 @@
 This project works with some data and with the goal of trying to find replacement players for the ones lost at the start of the off-season - During the 2001–02 offseason, the team lost three key free agents to larger market teams: 2000 AL MVP Jason Giambi to the New York Yankees, outfielder Johnny Damon to the Boston Red Sox, and closer Jason Isringhausen to the St. Louis Cardinals.
 
 ## Installing
- You can download R from [here](https://cran.cnr.berkeley.edu/)
- You can download RStudio from [here](https://rstudio.com/products/rstudio/download/)
+ 1. You can download R from [here](https://cran.cnr.berkeley.edu/)
+ 2. You can download RStudio from [here](https://rstudio.com/products/rstudio/download/)
  
  ## Getting Started
  Once you have downloaded the repository, you can open the MoneyBallProject.R file in RStudio and go through it.
